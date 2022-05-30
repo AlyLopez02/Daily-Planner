@@ -31,39 +31,39 @@ function init() {
     // load and displays local storage
     // loads textarea 9
     var text9 = document.getElementById("text9")
-        text9.value = localStorage.getItem("9");
+    text9.value = localStorage.getItem("9");
 
     // loads textarea 10
     var text10 = document.getElementById("text10")
-        text10.value = localStorage.getItem("10");
+    text10.value = localStorage.getItem("10");
 
     // loads textarea 11
     var text11 = document.getElementById("text11")
-        text11.value = localStorage.getItem("11");
-        
+    text11.value = localStorage.getItem("11");
+
     // loads textarea 12
     var text12 = document.getElementById("text12")
-        text12.value = localStorage.getItem("12");
-        
+    text12.value = localStorage.getItem("12");
+
     // loads textarea 13
     var text13 = document.getElementById("text13")
-        text13.value = localStorage.getItem("13");
-        
+    text13.value = localStorage.getItem("13");
+
     // loads textarea 14
     var text14 = document.getElementById("text14")
-        text14.value = localStorage.getItem("14");
-        
+    text14.value = localStorage.getItem("14");
+
     // loads textarea 15
     var text15 = document.getElementById("text15")
-        text15.value = localStorage.getItem("15");
-        
+    text15.value = localStorage.getItem("15");
+
     // loads textarea 16
     var text16 = document.getElementById("text16")
-        text16.value = localStorage.getItem("16");
-    
+    text16.value = localStorage.getItem("16");
+
     // loads textarea 17
     var text17 = document.getElementById("text17")
-        text17.value = localStorage.getItem("17");
+    text17.value = localStorage.getItem("17");
 }
 
 
