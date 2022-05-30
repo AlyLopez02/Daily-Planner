@@ -39,10 +39,10 @@ Please do not hesitate to inform or advise me on anything in my code that could 
 ## Screenshot:
 Here is a screenshot of the deployed application:
 
-![quiz in action](./README-assets/deployed%20application.png "Quiz in Action")
+![daily planner](./README-assets/deployed-application.png "Daily Planner")
 
 ## Link to deployed application:
 
 Here is the link to the deployed application via GitHub:
 
-<a href="https://alylopez02.github.io/Code-Quiz/">https://alylopez02.github.io/Code-Quiz/</a>
+<a href="https://alylopez02.github.io/Daily-Planner/">https://alylopez02.github.io/Daily-Planner/</a>
